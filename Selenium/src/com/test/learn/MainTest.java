@@ -3,12 +3,15 @@ package com.test.learn;
 public class MainTest {
 
 	public MainTest() {
-		// TODO Auto-generated constructor stub
+		String text = "Welcome";
+		System.out.println(text);
 	}
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		
+		MainTest mt = new MainTest();
 
+		System.out.println("Hello World");
 	}
 
 }
