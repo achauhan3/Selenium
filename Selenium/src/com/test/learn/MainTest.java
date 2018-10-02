@@ -10,7 +10,8 @@ public class MainTest {
 	public static void main(String[] args) {
 		
 		MainTest mt = new MainTest();
-
+		InputText it = new InputText();
+		it.InputTextBox();
 		System.out.println("Hello World");
 	}
 
